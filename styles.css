@@ -1,0 +1,25 @@
+h1,h2{
+    color: chartreuse;
+    text-align: center;
+}
+p{
+    color: yellow;
+}
+body{
+
+    background-color: black;
+}
+hr{
+    border-style: solid;
+    border-color: red;
+    border-width: 1px;
+    border-radius: 5px;
+}
+ul,a{
+    line-height: 20px;
+    color: whitesmoke;
+}
+li{
+    font-size:20px;
+    color: yellow;
+}
